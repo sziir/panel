@@ -3,8 +3,14 @@
 @import '../config/colors';
 
 @import '../utilites/spacing';
+@import '../utilites/mixin-card';
 
 @import '../base/fonts';
 @import '../base/global';
 @import '../base/typography';
 @import '../base/links';
+
+@import '../components/components';
+@import '../components/demo.scss';
+@import '../components/button.scss';
+
