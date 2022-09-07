@@ -11,7 +11,7 @@
     background-color: $color-white;
     border: 1px solid darken($color-white, 15%);
     box-shadow: 1px solid rgba(darken($color-primary, 30%,), 0.05);
-
+    white-space: nowrap;
     &:focus {
         outline: none;
         border: 2px solid $color-primary;
